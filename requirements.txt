@@ -1,0 +1,14 @@
+certifi==2021.10.8
+distlib==0.3.4
+filelock==3.4.2
+greenlet==1.1.2
+jedi==0.18.1
+msgpack==1.0.3
+parso==0.8.3
+Pillow==9.0.1
+pipenv==2022.1.8
+platformdirs==2.4.1
+pynvim==0.4.3
+six==1.16.0
+virtualenv==20.13.1
+virtualenv-clone==0.5.7
